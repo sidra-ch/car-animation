@@ -381,3 +381,11 @@ header .menu.active {
   object-fit: cover;
   object-position: center;
 }
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 2rem;
+  }
+  .brand-logo {
+    font-size: 1.2rem;
+  }
+}
